@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TestCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|d:\\testcase\\testcase\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|solutionrelative:testcase\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|d:\\testcase\\testcase\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|solutionrelative:testcase\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|d:\\testcase\\testcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|solutionrelative:testcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|d:\\testcase\\testcase\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|solutionrelative:testcase\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TestCase\\TestCase\\Views\\EMployee\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestCase\\Views\\EMployee\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|d:\\testcase\\testcase\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|solutionrelative:testcase\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|d:\\testcase\\testcase\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|solutionrelative:testcase\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|d:\\testcase\\testcase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|solutionrelative:testcase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|d:\\testcase\\testcase\\testcase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|solutionrelative:testcase\\testcase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|d:\\testcase\\testcase\\migrations\\20260923012345_creta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD0130F-713C-7C7E-6772-EA5E74B4BFCD}|TestCase\\TestCase.csproj|solutionrelative:testcase\\migrations\\20260923012345_creta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\TestCase\\TestCase\\Views\\EMployee\\Create.cshtml",
+              "RelativeDocumentMoniker": "TestCase\\Views\\EMployee\\Create.cshtml",
+              "ToolTip": "D:\\TestCase\\TestCase\\Views\\EMployee\\Create.cshtml",
+              "RelativeToolTip": "TestCase\\Views\\EMployee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T00:51:04.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EMployeeController.cs",
+              "DocumentMoniker": "D:\\TestCase\\TestCase\\Controllers\\EMployeeController.cs",
+              "RelativeDocumentMoniker": "TestCase\\Controllers\\EMployeeController.cs",
+              "ToolTip": "D:\\TestCase\\TestCase\\Controllers\\EMployeeController.cs",
+              "RelativeToolTip": "TestCase\\Controllers\\EMployeeController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwEEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T00:48:06.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TestCase\\TestCase\\appsettings.json",
+              "RelativeDocumentMoniker": "TestCase\\appsettings.json",
+              "ToolTip": "D:\\TestCase\\TestCase\\appsettings.json",
+              "RelativeToolTip": "TestCase\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-23T00:44:30.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestCase.csproj",
+              "DocumentMoniker": "D:\\TestCase\\TestCase\\TestCase.csproj",
+              "RelativeDocumentMoniker": "TestCase\\TestCase.csproj",
+              "ToolTip": "D:\\TestCase\\TestCase\\TestCase.csproj",
+              "RelativeToolTip": "TestCase\\TestCase.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-23T00:40:38.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "D:\\TestCase\\TestCase\\Models\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "TestCase\\Models\\EmployeeDBContext.cs",
+              "ToolTip": "D:\\TestCase\\TestCase\\Models\\EmployeeDBContext.cs",
+              "RelativeToolTip": "TestCase\\Models\\EmployeeDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T00:39:09.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\TestCase\\TestCase\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TestCase\\Models\\Employee.cs",
+              "ToolTip": "D:\\TestCase\\TestCase\\Models\\Employee.cs",
+              "RelativeToolTip": "TestCase\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T00:38:41.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TestCase\\TestCase\\Program.cs",
+              "RelativeDocumentMoniker": "TestCase\\Program.cs",
+              "ToolTip": "D:\\TestCase\\TestCase\\Program.cs",
+              "RelativeToolTip": "TestCase\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowB8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T00:38:16.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\TestCase\\TestCase\\Views\\EMployee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TestCase\\Views\\EMployee\\Edit.cshtml",
+              "ToolTip": "D:\\TestCase\\TestCase\\Views\\EMployee\\Edit.cshtml",
+              "RelativeToolTip": "TestCase\\Views\\EMployee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T01:50:27.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TestCase\\TestCase\\Views\\EMployee\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestCase\\Views\\EMployee\\Index.cshtml",
+              "ToolTip": "D:\\TestCase\\TestCase\\Views\\EMployee\\Index.cshtml",
+              "RelativeToolTip": "TestCase\\Views\\EMployee\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T01:27:52.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260923012345_creta.cs",
+              "DocumentMoniker": "D:\\TestCase\\TestCase\\Migrations\\20260923012345_creta.cs",
+              "RelativeDocumentMoniker": "TestCase\\Migrations\\20260923012345_creta.cs",
+              "ToolTip": "D:\\TestCase\\TestCase\\Migrations\\20260923012345_creta.cs",
+              "RelativeToolTip": "TestCase\\Migrations\\20260923012345_creta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T01:23:45.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
